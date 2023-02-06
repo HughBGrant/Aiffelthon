@@ -1,14 +1,10 @@
-## <p align ="center"> 🕰️ Aiffel Thon </p>
+## <p align ="center"> 🏃‍ ♂️Aiffelthon 🏃‍♂️ </p>
 
 ## <p align ="center"> 프로젝트 : 인공지능 비서를 만들어보자! </p> 
 
-### <p align ="center"> 🤖 Team ChatHuman 🤖 </p> 
+### <p align ="center"> 🤖 Team ChatHuman: 방승욱 구본회 이태환 장문규 🤖 </p>
 
-### <p align ="center"> 팀원 </p>
-
- <p align ="center"> 🤹‍♂️ 방승욱 🚴‍♂️ 구본회 🏌️‍♂️ 이태환 ⛷️ 장문규 </p>
-
-### <p align ="center"> 이 프로젝트는 22.12.26 ~ 23.02.08일까지 진행되는 아이펠톤 프로젝트 입니다. </p>
+### <p align ="center"> 22.12.26 ~ 23.02.08 </p>
 ---
  
 ### 세부 일정
