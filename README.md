@@ -1,4 +1,4 @@
-## <p align ="center"> 🏃‍ ♂️Aiffelthon 🏃‍♂️ </p>
+## <p align ="center"> 🏃Aiffelthon🏃 </p>
 
 ## <p align ="center"> 프로젝트 : 인공지능 비서를 만들어보자! </p> 
 
