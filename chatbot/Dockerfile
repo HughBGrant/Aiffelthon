@@ -7,12 +7,12 @@ RUN apt-get update &&\
     pip install --no-cache-dir \
       transformers[torch] uvicorn fastapi jinja2 python-multipart
 
-RUN pip install beautifulsoup4 &&\
+RUN pip install transformers==4.26.0 &&\
+    pip install beautifulsoup4 &&\
     pip install hangul_utils &&\
     pip install html5lib &&\
     pip install datetime &&\
-    pip install torch==1.9.1 &&\
-    pip install transformers==4.11.3
+    pip install torch==1.9.1
 
 # copies the app files to the docker image
 COPY app/ app/
