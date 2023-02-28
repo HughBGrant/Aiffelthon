@@ -111,7 +111,17 @@ __Shift = Input은 `<s>` 토큰을 bos_token으로 사용, Label은 `</s>`토큰
 ---
 
 ### 회고
--
+#### 프로젝트 수행상 어려움 극복 경험
+  - 
+  - 
+ 
+#### 프로젝트에서 잘한 경험
+  - 
+  - 
+  
+#### 프로젝트에서 아쉬운 경험
+  - 
+  - 
 
 ---
 ### 참고 문헌
@@ -131,6 +141,7 @@ __Shift = Input은 `<s>` 토큰을 bos_token으로 사용, Label은 `</s>`토큰
 14. [Tensorflow_KoGPT2_Chabot](https://github.com/ukairia777/tensorflow-kogpt2-chatbot/blob/main/KoGPT2_Chatbot.ipynb)
 15. [GPT-2 Fine Tuning ](https://blog.naver.com/ds_penaut/222699897818)
 16. [CaFeCoKe/KoGPT2_Chatbot](https://github.com/CaFeCoKe/KoGPT2_Chatbot)
+
 ---
 ### 팀원 깃허브 링크
 
@@ -138,7 +149,3 @@ __Shift = Input은 `<s>` 토큰을 bos_token으로 사용, Label은 `</s>`토큰
 - [구본회](https://github.com/HughBGrant) 
 - [이태환](https://github.com/leetaehwan) 
 - [장문규](https://github.com/MunGyuJang)
-
----
-### Google Drive
-- [구글 드라이브 링크](https://drive.google.com/drive/folders/13xvDPcMMqEe8cVTOg3VBjc0IgSjOAX9E)
