@@ -1,0 +1,9 @@
+chatbot/app/models/-100_ep4.pt
+chatbot/app/models/model.pt
+chatbot/app/models/sys_ep4.pt
+chatbot/app/model_-100.py
+report
+source/data/dialogue.csv
+source/data/dialogue_kakao.csv
+source/inference_-100.ipynb
+source/train_-100.ipynb
